@@ -1,6 +1,6 @@
 [(참고: 마크다운 사용 법)](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
-# [팀 이름]
+# [팀 이름 : Survive On Planet]
 ## [팀 구성원]
 ## 프로젝트에 사용할 깃허브 리포지토리 링크
 
