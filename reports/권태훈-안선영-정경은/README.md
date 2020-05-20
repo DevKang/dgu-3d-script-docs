@@ -1,11 +1,9 @@
-[(참고: 마크다운 사용 법)](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-
 # [팀 이름]
 안정권
 ## [팀 구성원]
 권태훈(팀장), 안선영, 정경은
 ## 프로젝트에 사용할 깃허브 리포지토리 링크
-
+https://github.com/kyungeunoah/ahnjungkwon
 # 게임 컨셉 제안서
 ## 게임을 한마디로 표현하면?
 실수로 작아진 주인공이 원래 상태로 돌아가기 위해 <br/>
