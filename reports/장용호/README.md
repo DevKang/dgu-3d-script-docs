@@ -3,6 +3,7 @@
 # [Tomorrowland]
 ## [장용호]
 ## 프로젝트에 사용할 깃허브 리포지토리 링크
+	> https://github.com/yonghojang-1004/EDM_Festival_Game
 
 (아래 제안서 양식은 참고만 하시고 본인의 게임을 제일 잘 표현할 수 있는 방법으로 자유롭게 기재해주세요)
 # 게임 컨셉 제안서
