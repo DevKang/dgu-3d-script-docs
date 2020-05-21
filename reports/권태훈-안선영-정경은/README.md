@@ -11,7 +11,7 @@ https://github.com/kyungeunoah/ahnjungkwon
 ## 게임의 스토리라인
 연금술사가 마법 실험 중 실수로 작아져버렸다! <br/>
 숨어있던 적들을 무찌르면서 재료를 모아, <br/>
-물약을 만들어 다시 원 상태로 돌아가자!
+물약을 만들어 다시 원 상태로 돌아가자! <br/>
 ## 장르
 TPS Adventure
 ## 타겟층
