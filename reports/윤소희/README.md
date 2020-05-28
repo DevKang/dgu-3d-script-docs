@@ -15,9 +15,8 @@ https://github.com/Sohee97/3Dprogramming.git
   짧은 시간동안 간편하게 즐길 게임을 찾는 10~20대 / 기록을 세우는 데 성취감을 느끼는 사람들
 ## 게임의 시스템
   >캐릭터 컨트롤
-  
   -방향키 및 스페이스바(점프)를 사용한다
-  *점프는 2단까지 가능하다
+  -점프는 2단까지 가능하다
   
   >게임 구성
   -플레이어, 장애물, 지형, 결승점, 타이머 등으로 구성된다. 
@@ -39,3 +38,14 @@ https://github.com/Sohee97/3Dprogramming.git
 # 참고한 컨셉
 -Game COOKIERUN
 -Game TalesRunner
+
+<pre>
+<code>
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+
+}
+</code>
+</pre>
