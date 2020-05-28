@@ -37,10 +37,16 @@ https://github.com/Sohee97/3Dprogramming.git
 </code>
 </pre>
 ### 핵심 재미
+<pre>
+<code>
  -장애물과 가속도를 통해 캐릭터 컨트롤에 더욱 집중하게 만든다. 지형에 발을 잘못 디디거나, 장애물과 부딪히게 되면 느려지므로 기록 단축 등의 경쟁 심리를 자극할 수 있다. 
  -구간 별로 게임 오버와 감속의 위험이 있으므로 지형을 파악하고 플레이어의 동선을 짜보는 재미를 느낄 수 있다. 
-
+</code>
+</pre>
 # 참고한 컨셉
+<pre>
+<code>
 -Game COOKIERUN
 -Game TalesRunner
-
+</code>
+</pre>
