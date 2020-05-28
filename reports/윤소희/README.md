@@ -14,7 +14,9 @@ https://github.com/Sohee97/3Dprogramming.git
 ### 타겟층
   짧은 시간동안 간편하게 즐길 게임을 찾는 10~20대 / 기록을 세우는 데 성취감을 느끼는 사람들
 ## 게임의 시스템
-  >캐릭터 컨트롤
+<pre>
+<code>
+ >캐릭터 컨트롤
   -방향키 및 스페이스바(점프)를 사용한다
   -점프는 2단까지 가능하다
   
@@ -31,6 +33,8 @@ https://github.com/Sohee97/3Dprogramming.git
   >UI시스템
   -화면 우측 상단에 시간을 잴 수 있는 타이머를 설치한다.
   -결승점 통과시 게임을 다시 플레이할 지 묻는다
+</code>
+</pre>
 ### 핵심 재미
  -장애물과 가속도를 통해 캐릭터 컨트롤에 더욱 집중하게 만든다. 지형에 발을 잘못 디디거나, 장애물과 부딪히게 되면 느려지므로 기록 단축 등의 경쟁 심리를 자극할 수 있다. 
  -구간 별로 게임 오버와 감속의 위험이 있으므로 지형을 파악하고 플레이어의 동선을 짜보는 재미를 느낄 수 있다. 
@@ -39,13 +43,3 @@ https://github.com/Sohee97/3Dprogramming.git
 -Game COOKIERUN
 -Game TalesRunner
 
-<pre>
-<code>
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-
-}
-</code>
-</pre>
