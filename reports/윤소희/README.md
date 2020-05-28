@@ -3,7 +3,7 @@
 # [팀이 없어요]
 ## [윤소희]
 ## 프로젝트에 사용할 깃허브 리포지토리 링크
-https://github.com/Sohee97/3Dprogramming.git
+https://github.com/Sohee97/3D_TermProject.git
 
 # 게임 컨셉 제안서
 ## 게임을 한마디로 표현하면?
