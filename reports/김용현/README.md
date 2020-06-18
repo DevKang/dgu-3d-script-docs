@@ -6,7 +6,8 @@
 김 용 현 (개인작업)
 ## 프로젝트 사용할 Repo 링크
 https://github.com/zi0808/RipArena
-(현재는 Private 로 설정됨.)
+( 프로젝트 / 소스 코드 Repo )
+( 빌드는 추후 공개 )
 
 # 게임 컨셉 제안서
 * * *
