@@ -5,9 +5,8 @@
 ## [ 팀 구성원 ]
 김 용 현 (개인작업)
 ## 프로젝트 사용할 Repo 링크
-https://github.com/zi0808/RipArena
-( 프로젝트 / 소스 코드 Repo )
-( 빌드는 추후 공개 )
+**[ 프로젝트 / 소스 코드 REPO ]** | https://github.com/zi0808/RipArena <br>
+**[ 실행 가능한 빌드 ]** | https://www.dropbox.com/s/xrjkwfmnbggfzo5/%5B3D_Script_Prog%5D%20Arena%201.0.zip?dl=0
 
 # 게임 컨셉 제안서
 * * *
