@@ -4,6 +4,8 @@
 권태훈(팀장), 안선영, 정경은
 ## 프로젝트에 사용할 깃허브 리포지토리 링크
 https://github.com/kyungeunoah/ahnjungkwon
+https://github.com/kyungeunoah/ahnjungkwon_re.git
+-> 아래주소가 최종 주소입니다. 첫번째 주소는 허용량이 초과해, 새로운 주소를 만들었습니다. 
 # 게임 컨셉 제안서
 ## 게임을 한마디로 표현하면?
 실수로 작아진 주인공이 원래 상태로 돌아가기 위해 <br/>
