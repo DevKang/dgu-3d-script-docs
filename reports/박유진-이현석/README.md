@@ -4,7 +4,9 @@
 ## [팀 구성원]
 	박유진,이현석
 ## 프로젝트에 사용할 깃허브 리포지토리 링크
-https://github.com/Meronaaaaa/team_Merona
+1차: https://github.com/Meronaaaaa/team_Merona
+2차: https://github.com/3DscriptTeam/EscapIsland
+1차와 2차 각각에 기간동안의 커밋들이 들어있습니다
 (아래 제안서 양식은 참고만 하시고 본인의 게임을 제일 잘 표현할 수 있는 방법으로 자유롭게 기재해주세요)
 # 게임 컨셉 제안서
 ## 게임을 한마디로 표현하면?
